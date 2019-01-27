@@ -1,0 +1,23 @@
+{
+  "name": "nuve-server",
+  "version": "1.0.0",
+  "description": "Server-side logic for Nuve-UI",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/asharron/Nuve-Server.git"
+  },
+  "keywords": [
+    "mediaserver",
+    "express"
+  ],
+  "author": "Alexandrith Sharron",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/asharron/Nuve-Server/issues"
+  },
+  "homepage": "https://github.com/asharron/Nuve-Server#readme"
+}
